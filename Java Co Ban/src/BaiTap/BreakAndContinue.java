@@ -9,6 +9,8 @@ public class BreakAndContinue {
 				  continue;
 			  }
 			  System.out.println(i);
+			  System.out.println("hello git");
+				 
 			 
 			}
 
